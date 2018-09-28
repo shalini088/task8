@@ -1,0 +1,47 @@
+.mainDiv{
+
+    background-color:grey;
+align-content: center;
+  justify-content: space-between;
+  padding: 2%;
+
+}
+.personalDiv{
+
+      border: solid black;
+text-align: center;
+display: flex;
+}
+.edudiv{
+  display: flex;
+      text-align: center;
+      background-color:pink;
+  border: solid black;
+
+}
+.ssc{
+  width: 30%;
+    background-color:violet;
+    text-align: center;
+    border: solid black;
+
+  }
+
+.interDiv{
+  width: 30%;
+      text-align: center;
+  background-color:#EC13E2;
+  border: solid black;
+
+
+
+
+
+}
+.btechDiv{
+  width: 30%;
+    background-color:#B113EC;
+    border: solid black;
+
+
+}
